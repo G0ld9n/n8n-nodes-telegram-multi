@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="30" fill="#0088cc"/>
+  <path d="M41.2 17.8L12.3 29.1c-1.9 0.8-1.9 1.9-0.3 2.4l7.4 2.3 17.1-10.8c0.8-0.5 1.5-0.2 0.9 0.3l-13.8 12.5h-0.1l0 0 -0.5 7.6c0.7 0 1-0.3 1.4-0.7l3.4-3.3 7.1 5.2c1.3 0.7 2.2 0.3 2.5-1.2l4.6-21.6c0.4-1.9-0.7-2.8-2.0-2.2z" fill="white"/>
+  <circle cx="45" cy="15" r="8" fill="#ff6b6b"/>
+  <text x="45" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">M</text>
+</svg>
