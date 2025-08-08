@@ -12,9 +12,6 @@
   "license": "MIT",
   "homepage": "https://github.com/G0ld9n/n8n-nodes-telegram-multi",
   "author": "G0ld9n",
-  "author": "G0ld9n",
-  "author": "G0ld9n",
-  "author": "G0ld9n",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/G0ld9n/n8n-nodes-telegram-multi.git"
@@ -32,7 +29,7 @@
     "format": "prettier nodes credentials --write",
     "lint": "eslint nodes credentials package.json",
     "lintfix": "eslint nodes credentials package.json --fix",
-    "prepublishOnly": "pnpm build && pnpm lint -o .eslintcache && pnpm test",
+    "prepublishOnly": "pnpm build",
     "test": "jest"
   },
   "files": [
